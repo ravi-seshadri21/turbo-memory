@@ -1,7 +1,7 @@
 {
   "build": "pyhc872135_2",
   "build_number": 2,
-  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
   "constrains": [],
   "depends": [
     "python >=3.9,<3.14.0a0",
@@ -5646,7 +5646,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "pip",
   "sha256": "dc705c852ed94395f0b75cf65aa0f230adfb74cda46c9daca6df94fca0b90bb7",
   "size": 1332980,
   "subdir": "noarch",
